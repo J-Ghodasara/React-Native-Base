@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="btn_add_btb" transform="translate(-180 -941)">
+    <circle id="Oval" cx="19" cy="19" r="19" transform="translate(180 941)" fill="#233368"/>
+    <g id="img_add_bottombar" transform="translate(191 952)">
+      <path id="Path" d="M15.375,7.375H8.625V.625a.625.625,0,0,0-1.25,0v6.75H.625a.625.625,0,0,0,0,1.25h6.75v6.75a.625.625,0,0,0,1.25,0V8.625h6.75a.625.625,0,0,0,0-1.25Z" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

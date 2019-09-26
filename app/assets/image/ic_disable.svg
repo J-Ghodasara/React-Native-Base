@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="img_clock_disable_bg" transform="translate(-42 -583.5)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="40" height="40" transform="translate(42 583.5)" opacity="0.45"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-120 295.5)">
+      <path id="Path_1" data-name="Path 1" d="M182,298a10,10,0,1,0,10,10,10.033,10.033,0,0,0-10-10Zm-8,10a8.019,8.019,0,0,1,8-8,7.864,7.864,0,0,1,4.9,1.7l-11.2,11.2A7.864,7.864,0,0,1,174,308Zm8,8a7.864,7.864,0,0,1-4.9-1.7l11.2-11.2A7.864,7.864,0,0,1,190,308a8.019,8.019,0,0,1-8,8Zm0,0" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

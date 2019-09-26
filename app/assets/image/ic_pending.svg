@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="img_clock_black_bg" transform="translate(0 -583.5)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="40" height="40" transform="translate(0 583.5)" opacity="0.45"/>
+    <g id="ic_clock" transform="translate(10 593.5)">
+      <path id="Shape" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM10,2.128A7.872,7.872,0,1,0,17.872,10,7.881,7.881,0,0,0,10,2.128Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path" d="M6.088,6.173H1.633V.816A.816.816,0,0,0,0,.816V6.99a.816.816,0,0,0,.816.816H6.088a.816.816,0,1,0,0-1.633Z" transform="translate(9.112 3.484)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
