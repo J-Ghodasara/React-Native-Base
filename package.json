@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
     "@react-native-community/netinfo": "^4.2.2",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "pubsub-js": "^1.7.0",
     "react": "16.8.6",
     "react-native": "0.60.5",
